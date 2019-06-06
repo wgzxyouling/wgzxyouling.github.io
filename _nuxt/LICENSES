@@ -44,19 +44,19 @@
 /*!
 {
   "copywrite": "Copyright (c) 2018-present",
-  "date": "2018-10-21T18:04:28.946Z",
+  "date": "2019-01-21T12:39:36.944Z",
   "describe": "",
   "description": "Vue directive to react on clicks outside an element.",
   "file": "v-click-outside-x.min.js",
-  "hash": "e0288964063d0975b62a",
+  "hash": "ef8b7b3c24168423686e",
   "license": "MIT",
-  "version": "3.5.0"
+  "version": "3.7.1"
 }
 */
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.14.3
+ * @version 1.14.7
  * @license
  * Copyright (c) 2016 Federico Zivolo and contributors
  *
