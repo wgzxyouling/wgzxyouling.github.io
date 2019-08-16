@@ -1,3 +1,5 @@
+//!\ DECLARE ALIAS AFTER assign prototype !
+
 /*!
  * Vue.js v2.6.10
  * (c) 2014-2019 Evan You
@@ -71,5 +73,3 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
-//!\ DECLARE ALIAS AFTER assign prototype !
